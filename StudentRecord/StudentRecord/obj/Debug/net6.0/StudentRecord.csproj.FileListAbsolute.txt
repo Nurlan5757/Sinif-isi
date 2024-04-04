@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\bin\Debug\net6.0\StudentRecord.exe
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\bin\Debug\net6.0\StudentRecord.deps.json
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\bin\Debug\net6.0\StudentRecord.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\bin\Debug\net6.0\StudentRecord.dll
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\bin\Debug\net6.0\StudentRecord.pdb
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.dll
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\refint\StudentRecord.dll
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.pdb
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\StudentRecord.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\StudentRecord\StudentRecord\obj\Debug\net6.0\ref\StudentRecord.dll
